@@ -75,4 +75,5 @@ npm run test:ui
 npm i -D @testing-library/react@14.2.0
 npm i -D jsdom@24.0.0
 npm i -D @testing-library/jest-dom
+npm i --save-dev @testing-library/user-event
 ~~~
